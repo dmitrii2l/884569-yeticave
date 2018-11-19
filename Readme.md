@@ -1,7 +1,7 @@
 # Личный проект «YetiCave»
 
 * Студент: [dmitrii lobanov](https://up.htmlacademy.ru/php/7/user/884569).
-* Наставник: `Максим Деев`.
+* Наставник: `Максим Деев`
 * Студент: [dmitrii lobanov](https://up.htmlacademy.ru/php/7/user/884569).
 * Наставник: [Максим Деев] https://htmlacademy.ru/profile/id685777
 
